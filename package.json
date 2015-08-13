@@ -1,0 +1,28 @@
+{
+  "name": "laravel-elixir-html-minify",
+  "version": "1.0.0",
+  "description": "Minify html files with Laravel Elixir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gerardo Gómez <code@gerardo.im>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-filter": "^3.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.2.0",
+    "laravel-elixir": "3.*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruysu/laravel-elixir-html-minify"
+  },
+  "keywords": [
+    "laravel",
+    "elixir",
+    "html-minify",
+    "laravel-elixir-html-minify"
+  ]
+}
