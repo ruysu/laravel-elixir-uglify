@@ -1,1 +1,1 @@
-# laravel-elixir-uglify
+# laravel-elixir-js-uglify
